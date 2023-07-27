@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # 设置各变量
-WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'c664751b-b662-48f9-b2aa-2f0d4d337a7f'}
+WSPATH=${WSPATH:-'3f83e183-2b2a-4766-b698-74d1cf8e6c08'}
+UUID=${UUID:-'3f83e183-2b2a-4766-b698-74d1cf8e6c08'}
 
 # 其他Paas保活
 PAAS1_URL=
